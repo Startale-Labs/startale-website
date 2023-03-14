@@ -1,0 +1,1 @@
+import{N as o,O as e,M as t,P as u,Q as a,R as s}from"./entry.f6625cdd.js";function n(){return o({router:e(),route:t(),i18n:u(a().$i18n)})}function i(){return s({router:e(),route:t(),i18n:u(a().$i18n)})}export{i as a,n as u};
